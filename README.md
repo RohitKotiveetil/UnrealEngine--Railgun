@@ -1,11 +1,6 @@
-# UnrealEngine--Railgun
+# Railgun
 
-Recreation of the Railgun from Hard Reset in Unreal Engine v4.20.
-
-Features:
-1. Penetration shots for hitting targets behind walls.
-2. X-Ray Scope to highlight occluded targets.
-
+Recreation of the Railgun from Hard Reset in Unreal Engine v4.20. Supports X-Ray Scope & Wall Penetration for targeting occluded enemies.
 
 Preview Video: To be updated
 
