@@ -2,7 +2,7 @@
 
 Recreation of the Railgun from Hard Reset in Unreal Engine v4.21.
 
-Supports X-Ray Scope & Wall Penetration for targeting occluded enemies.
+Features X-Ray Scope & Wall Penetration for targeting occluded enemies.
 
 **Preview:** https://www.youtube.com/watch?v=miYnTU2WQc8
 
