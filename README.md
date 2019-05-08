@@ -1,6 +1,6 @@
 # Railgun
 
-Recreation of the Railgun from Hard Reset in Unreal Engine v4.21.
+Recreation of the Railgun from Hard Reset in Unreal Engine v4.22.
 
 Features X-Ray Scope & Wall Penetration for targeting occluded enemies.
 
